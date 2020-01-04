@@ -1,3 +1,7 @@
 1st line in master commnon
-2nd line in master common
+===removed the previous line here and added new line 
 ===========now both these lines are commited and pushed in to master
+adf
+sdf
+dfg
+====adding above 3 lines in branch and changed 2nd line 
