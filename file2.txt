@@ -2,5 +2,7 @@ ddd
 ddd
 ====multiple commmit 1
 dgf
-dfg
+in newgit2--branch2 folder am removing dfg 
 ==multople commit2
+removed 2nf line above from here and added this
+===2 lines from branch2 
