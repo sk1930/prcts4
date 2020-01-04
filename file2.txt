@@ -2,6 +2,11 @@ ddd
 ddd
 ====multiple commmit 1
 dgf
+changing this line in bracnh3 dfg
+==multople commit2
+changed 2nd line above from here and added these 2 lines
+====
+=======
 in newgit2--branch2 folder am removing dfg 
 ==multople commit2
 removed 2nf line above from here and added this
