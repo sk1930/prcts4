@@ -9,4 +9,6 @@ sdf
 thes are the lines added from git 2
 adding 2 commits and checking what happens 
 whther ut is shown a s single commit or multiple commits
-
+==
+2nd multiple commit
+==
